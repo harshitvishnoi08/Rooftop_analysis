@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://harshit08042004:$HF_TOKEN@huggingface.co/spaces/harshit08042004/SPACE_NAME main
+        run: git push https://harshit08042004:$HF_TOKEN@huggingface.co/spaces/harshit08042004/Rooftop_Analysis_Tool main
