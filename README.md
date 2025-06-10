@@ -15,3 +15,4 @@ An AI-powered tool for analyzing rooftop satellite imagery to assess solar insta
 2. **Clone Repository**:
    ```cmd
    git clone https://github.com/harshitvishnoi08/Rooftop_analysis.git
+To access the app follow https://rooftop-image-analysis.streamlit.app/
